@@ -1,6 +1,4 @@
-DOMAIN-SUFFIX,audiobook.mefun.org
-DOMAIN-SUFFIX,music.mefun.org
-DOMAIN-SUFFIX,music.wenjian.de
-DOMAIN-SUFFIX,yin.wenjian.de
-DOMAIN-SUFFIX,book.hsu.life
-DOMAIN-SUFFIX,book.wenjian.de
+#未响
+DOMAIN-SUFFIX,mefun.org
+#稳健
+DOMAIN-SUFFIX,wenjian.de
